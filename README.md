@@ -2,7 +2,7 @@
 
 # Shopping Backend
 
-This project demonstrates ability using Sequelize as an ORM to interface with a MySQL database in order to create a backend database and API for an e-commerce site. It has functionality to track products, categories of products, and tags for defining and sorting the products. This backend technology could easily be implemented with a front end to creat a full stack e-commerce site/tracker.
+This project demonstrates ability using Sequelize as an ORM to interface with a MySQL database in order to create a backend database and API for an e-commerce site. It has functionality to track products, categories of products, and tags for defining and sorting the products. This backend technology could easily be implemented with a front end to create a full stack e-commerce site/tracker.
 
 In this project, I learned how to use an ORM to simplify the use of a SQL (MySQL) database in creating a practical API. All the queries are handled through JavaScript by Sequelize. I solidified my knowledge of SQL databases and how to implement them in the setting of modern web applications. I also practiced clean code with a logical file structure, solid naming conventions, and good readability. My biggest challenge was making sure to get the through table written correctly and functioning properly.
 
